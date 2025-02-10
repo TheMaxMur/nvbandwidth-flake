@@ -1,5 +1,5 @@
 {
-  description = "OpenSSL GOST Nix";
+  description = "nvbandwidth flake";
 
   inputs = {
     # Official NixOS repo
