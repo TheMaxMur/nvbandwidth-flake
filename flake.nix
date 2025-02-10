@@ -31,6 +31,9 @@
           };
         };
 
+        packages = {
+          nvbandwidth = pkgs.callPackage ./pkgs/nvbandwidth.nix {};
+        };
       };
     };
 }
